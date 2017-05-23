@@ -29,7 +29,7 @@ table {
   text-decoration: none;
 }
 .nav li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: #444;
 }
 .nav li.dropdown {
   display: inline-block;
