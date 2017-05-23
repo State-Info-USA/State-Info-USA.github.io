@@ -17,6 +17,7 @@ table {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  font-family: Arial;
 }
 .nav li {
   float: left;
